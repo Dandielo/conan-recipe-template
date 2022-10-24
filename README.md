@@ -1,3 +1,7 @@
+# == ARCHIVE NOTE ==
+
+This repo was archived because ALL iceshard conan recipes now reside in [iceshard-engine/conan-recipes](https://github.com/iceshard-engine/conan-recipes).
+
 # conan-recipe-template
 A template repository to be used for new Conan recipes.
 
